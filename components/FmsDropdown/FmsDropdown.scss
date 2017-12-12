@@ -1,0 +1,18 @@
+.btn-dropdown {
+  cursor: pointer;
+  font-size: 12px;
+  background-color: #1ab394;
+}
+
+.dropdown-menu {
+  .font-bold {
+    font-weight: 600;
+  }
+  .dropdown-item {
+    font-size: 12px;
+    &:hover {
+      cursor: pointer;
+      background-color: #F7F9F9;
+    }
+  }
+}

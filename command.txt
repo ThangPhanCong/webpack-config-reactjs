@@ -1,0 +1,7 @@
+npm i react react-dom -S : cài đặt React
+npm i babel-loader babel-preset-es2015 babel-preset-react babel-core -S
+npm install --save reactstrap@next
+npm install bootstrap@4.0.0-beta.2 --save
+npm install --save-dev webpack-dev-server
+import 'bootstrap/dist/css/bootstrap.css';
+npm install --save-dev html-webpack-plugin
